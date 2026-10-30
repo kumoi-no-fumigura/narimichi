@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/narimichi",
  "yomi": "なりみちきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "藤原成通",
+  "desc": "蹴鞠の名手として知られた藤原成通の家集。中宮の御方や鳥羽殿での題詠のほか、仏事にかかわる歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1160,6 +1165,6 @@
   "poems": 99,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
